@@ -174,5 +174,5 @@
 | NLB layers | Layer 4 (TCP/UDP/TLS) |
 | Route 53 TTL minimum | 0 seconds |
 | Aurora storage increment | 10 GB auto-grow |
-| IAM policy max size | 6,144 characters (inline), 6,144 (managed) |
+| IAM policy max size | 6,144 characters (both inline and managed policies) |
 | EC2 On-Demand max vCPUs (default) | 32 |
